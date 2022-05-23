@@ -9,11 +9,7 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 
 ## Checkpoints aulas
 
-1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-dffdc96f6a3f4db887713163d69fb756)
-
-2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-b605faa196074f558ba5ef9a91d38919)
-3. [Aula 3: Introdução ao JS](https://kenzieacademybr.notion.site/Checkpoint-db6f7863c5194db48feffa58c6d22f42)
-
+1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-603966060b18408b9a94e08029552dbc)
 
 ## O projeto
 
@@ -31,22 +27,24 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 
 ### Fontes
 
-- 'Kreon', serif;
+- 'Nunito', serif;
 - 'Montserrat Alternates', sans-serif;
 
 ### Cores
 
 - Background principal: #E5E5E5;
-- Background produto no carrinho: #F5F3F0; 
+- Background secundário: #F5F3F0; 
 - Branco: #FFFFFF;
 - Marrom: #502314;
-- Laranja: #DB3B1D; 
+- Vermelho: #DB3B1D; 
+- Laranja: #FF8627
 - Cinza escuro: #2D2D2D;
+- Preto: #000000;
 
 
 ## Layout
 
-- [Projeto BK](https://www.figma.com/file/ShNFhsseyN9YTmq2bRuIu4/Projeto_BurgerKing-(Totem)_2022-05?node-id=0%3A1);
+- [Projeto BK](https://www.figma.com/proto/fTaavs6lSUTFAmKSEK1Vcy/M1-DEMO-SPRINT3?node-id=122%3A105&scaling=min-zoom&page-id=122%3A3);
 
 
 ## Referências
