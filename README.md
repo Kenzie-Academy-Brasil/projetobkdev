@@ -46,7 +46,7 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 
 ## Layout
 
-- [Projeto BK](https://www.figma.com/proto/fTaavs6lSUTFAmKSEK1Vcy/M1-DEMO-SPRINT3?node-id=122%3A105&scaling=min-zoom&page-id=122%3A3);
+- [Projeto BK](https://www.figma.com/file/I8rA1tARRI6DPGsVk8hxDi/%F0%9F%8D%94-Evento-Kenzie-%2B-Burguer-King?node-id=0%3A1);
 
 
 ## Referências
