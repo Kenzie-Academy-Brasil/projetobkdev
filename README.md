@@ -12,6 +12,7 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 ## Checkpoints aulas
 
 1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-603966060b18408b9a94e08029552dbc)
+2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-CSS-25ff90c91bbf469f992d4eb78676b22e)
 
 ## O projeto
 
