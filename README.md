@@ -50,6 +50,11 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 - [Projeto BK](https://www.figma.com/file/I8rA1tARRI6DPGsVk8hxDi/%F0%9F%8D%94-Evento-Kenzie-%2B-Burguer-King?node-id=0%3A1);
 
 
+## LinkedIn dos Instrutores
+
+- [Hudson Carolino](https://www.linkedin.com/in/hudsoncarolino/)
+- [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
+
 ## Referências
 
 - [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp);
