@@ -126,3 +126,9 @@ let taChuvendo = false
 let taQuente = false
 
 console.log(taChuvendo || taQuente)
+
+let tem_carteira_de_motorista = true
+let tem_dezoito_anos = true
+
+let pode_dirigir = tem_carteira_de_motorista && tem_dezoito_anos
+console.log(pode_dirigir)
