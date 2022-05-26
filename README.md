@@ -51,7 +51,7 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 
 
 ## LinkedIn dos Instrutores
-
+- [Instagram Hudson](https://www.instagram.com/hudsoncarolino/)
 - [Hudson Carolino](https://www.linkedin.com/in/hudsoncarolino/)
 - [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
 

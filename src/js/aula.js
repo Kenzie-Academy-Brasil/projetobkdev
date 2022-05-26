@@ -3,11 +3,11 @@
 let fruta = "Maçã"
 fruta = "Morango"
 
-console.log(fruta)
+//console.log(fruta)
 
 const ano = 2023
 
-console.log(ano)
+//console.log(ano)
 
 // Tipos de Dados
 
@@ -26,7 +26,7 @@ let novoArray = [1, "oi", true, false, 29, "bolo"]
 //console.log(novoArray[5])
 
 novoArray.push("refrigerante")
-console.log(novoArray)
+//console.log(novoArray)
 
 
 // Objeto
@@ -42,7 +42,7 @@ let pessoa = {
 
 pessoa.comida = "Sorvete de Chiclete"
 
-console.log(pessoa)
+//console.log(pessoa)
 
 
 // Operadores Lógicos
@@ -112,7 +112,7 @@ let tresEhMaiorOuIgualAQuatro = (3 >= 4)
 let textoUm = "Hoje está frio" //false
 let textoDois = "Hoje é dia 25" //true
 
-console.log(true && true)
+//console.log(true && true)
 
 //TABELA VERDADE DO OU / operador lógico => ||
 /*
@@ -132,3 +132,108 @@ let tem_dezoito_anos = true
 
 let pode_dirigir = tem_carteira_de_motorista && tem_dezoito_anos
 console.log(pode_dirigir)
+//console.log(taChuvendo || taQuente)
+
+
+
+//CONDICIONAIS (IF/ELSE)
+
+
+//SE (IDADE >= 18) MAIOR IDADE
+//SENÃO MENOR IDADE
+
+
+const professorLive     = "Hudson"
+const professoraLive    = "Maria"
+
+//SE             TRUE         &&          TRUE
+if(professorLive  == "Hudson" && professoraLive == "Maria"){
+    
+    //console.log("Hoje tem aula!")
+    //console.log("Notificar alunos por email")
+
+//SENÃO
+}else{
+
+    //console.log("Hoje não tem aula!")
+    //console.log("Não notificar alunos por email")
+
+}
+
+
+
+//FUNÇÕES 
+//NOME *
+//PARAMETROS  *
+//INSTRUÇÕES *
+//RETORNAR OU NÃO *
+//CHAMAR *
+
+//DECLARAÇÃO/PARAMETRO
+function verificarMaiorIdade(idade){
+
+    //INSTRUÇÕES
+    if(idade >= 18){
+
+        return true
+
+    }else{
+
+        return false
+
+    }
+
+}
+
+//CHAMADA DA FUNÇÃO
+//const restornoFuncao = verificarMaiorIdade(17)
+
+//console.log(restornoFuncao)
+
+// function login(usuario, senha){
+    
+//     if(usuario == "Hudson" && senha == "123"){
+//         console.log("Sucesso")
+//     }else{
+//         console.log("Login invalido")
+//     }
+    
+
+// }
+// login("Hudson", 123)
+
+
+
+//LAÇO DE REPETIÇÃO => LOOPS
+
+
+
+// let contador = 1
+
+// //ENQUANTO
+// while(contador <= 10){
+
+//     //console.log("oi")
+//     contador += 1
+// }
+
+//PARA
+//for(variavelControle; condiçãoParada; incremento)
+// for(let contador = 0; contador <= 10; contador += 1){
+
+//      console.log(contador)
+// }
+
+
+
+
+
+const listaCertificado = ["Maria","Hudson","Desibaaa","Simone","Edson","Mah","Lucas Costa", "Wagner", "Rafael", "Moises", "Lidia"]
+
+console.log(listaCertificado)
+
+for(let i  = 0; i < listaCertificado.length; i+=1){
+
+    console.log(listaCertificado[i])
+
+}
