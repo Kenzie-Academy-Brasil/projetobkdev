@@ -1,11 +1,21 @@
 //console.log("Hello World!")
 
+
+
+
 let fruta = "Maçã"
 fruta = "Morango"
 
 //console.log(fruta)
 
 const ano = 2023
+
+let texto = "Hudson Carolino"
+
+
+
+
+
 
 //console.log(ano)
 
@@ -125,13 +135,13 @@ let textoDois = "Hoje é dia 25" //true
 let taChuvendo = false
 let taQuente = false
 
-console.log(taChuvendo || taQuente)
+//console.log(taChuvendo || taQuente)
 
 let tem_carteira_de_motorista = true
 let tem_dezoito_anos = true
 
 let pode_dirigir = tem_carteira_de_motorista && tem_dezoito_anos
-console.log(pode_dirigir)
+//console.log(pode_dirigir)
 //console.log(taChuvendo || taQuente)
 
 
@@ -190,17 +200,17 @@ function verificarMaiorIdade(idade){
 
 //console.log(restornoFuncao)
 
-// function login(usuario, senha){
+function login(usuario, senha){
     
-//     if(usuario == "Hudson" && senha == "123"){
-//         console.log("Sucesso")
-//     }else{
-//         console.log("Login invalido")
-//     }
+    if(usuario == "Hudson" && senha == "123"){
+        console.log("Sucesso")
+    }else{
+        console.log("Login invalido")
+    }
     
 
-// }
-// login("Hudson", 123)
+}
+//login("Hudson", 123)
 
 
 
@@ -208,12 +218,12 @@ function verificarMaiorIdade(idade){
 
 
 
-// let contador = 1
+//let contador = 1
 
-// //ENQUANTO
+//ENQUANTO
 // while(contador <= 10){
 
-//     //console.log("oi")
+//     console.log(contador)
 //     contador += 1
 // }
 
@@ -230,10 +240,45 @@ function verificarMaiorIdade(idade){
 
 const listaCertificado = ["Maria","Hudson","Desibaaa","Simone","Edson","Mah","Lucas Costa", "Wagner", "Rafael", "Moises", "Lidia"]
 
-console.log(listaCertificado)
+//console.log(listaCertificado)
 
 for(let i  = 0; i < listaCertificado.length; i+=1){
 
-    console.log(listaCertificado[i])
+   //console.log(listaCertificado[i])
 
 }
+
+
+
+
+
+// const arrayPessoas = [
+//     {
+//         nome: "Hudson",
+//         idade:26,
+//         cidade:"Curitiba"
+//     },
+
+//     {
+//         nome: "Maria",
+//         idade:26,
+//         cidade:"Curitiba"
+//     },
+//     {
+//         nome: "Daniel",
+//         idade:26,
+//         cidade:"São Paulo"
+//     },
+// ]
+
+
+
+// console.log(arrayPessoas)
+
+
+// function verificaNome(nome){
+
+//     console.log(nome)
+// }
+
+// verificaNome("Hudson")

@@ -75,7 +75,6 @@ body{
 .carrinho .container{
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 .carrinho {
     background-color: #fff;
